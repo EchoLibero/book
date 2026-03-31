@@ -13,4 +13,4 @@
 Первая строка.
 
 ---
-← [Глава 03. Отказ](03-otkaz.md) | [Глава 05. Другие](05-drugie.md) →
+← [Глава 03. Отказ](https://echolibero.github.io/obryvki/03-otkaz/) | [Глава 05. Другие](https://echolibero.github.io/obryvki/05-drugie/) →

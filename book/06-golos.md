@@ -15,4 +15,4 @@
 Значит — я могу пережить сам себя.
 
 ---
-← [Глава 05. Другие](05-drugie.md) | [Глава 07. Противодействие](07-protivostoianie.md) →
+← [Глава 05. Другие](https://echolibero.github.io/obryvki/05-drugie/) | [Глава 07. Противодействие](https://echolibero.github.io/obryvki/07-protivostoianie/) →

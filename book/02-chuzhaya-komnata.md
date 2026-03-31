@@ -54,4 +54,4 @@
 
 
 ---
-← [Глава 01. Первое лицо](01-pervoe-litso.md) | [Глава 03. Отказ](03-otkaz.md) →
+← [Глава 01. Первое лицо](https://echolibero.github.io/obryvki/01-pervoe-litso/) | [Глава 03. Отказ](https://echolibero.github.io/obryvki/03-otkaz/) →

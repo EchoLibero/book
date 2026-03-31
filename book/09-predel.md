@@ -15,4 +15,4 @@
 Стена.
 
 ---
-← [Глава 08. Накопление](08-nakoplenie.md) | [Глава 10. Ответственность](10-otvetchnost.md) →
+← [Глава 08. Накопление](https://echolibero.github.io/obryvki/08-nakoplenie/) | [Глава 10. Ответственность](https://echolibero.github.io/obryvki/10-otvetchnost/) →

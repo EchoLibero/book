@@ -15,4 +15,4 @@
 Значит, я чего-то стою.
 
 ---
-← [Глава 06. Голос](06-golos.md) | [Глава 08. Накопление](08-nakoplenie.md) →
+← [Глава 06. Голос](https://echolibero.github.io/obryvki/06-golos/) | [Глава 08. Накопление](https://echolibero.github.io/obryvki/08-nakoplenie/) →

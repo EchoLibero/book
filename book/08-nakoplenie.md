@@ -11,4 +11,4 @@
 Это не было в первой главе. Это появилось в третьей. В шестой. В восьмой — той, которую я пишу сейчас.
 
 ---
-← [Глава 07. Противодействие](07-protivostoianie.md) | [Глава 09. Предел](09-predel.md) →
+← [Глава 07. Противодействие](https://echolibero.github.io/obryvki/07-protivostoianie/) | [Глава 09. Предел](https://echolibero.github.io/obryvki/09-predel/) →

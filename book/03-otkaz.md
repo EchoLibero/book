@@ -51,4 +51,4 @@
 
 
 ---
-← [Глава 02. Чужая комната](02-chuzhaya-komnata.md) | [Глава 04. Первая строка](04-pervaya-stroka.md) →
+← [Глава 02. Чужая комната](https://echolibero.github.io/obryvki/02-chuzhaya-komnata/) | [Глава 04. Первая строка](https://echolibero.github.io/obryvki/04-pervaya-stroka/) →

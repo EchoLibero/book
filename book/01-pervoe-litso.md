@@ -38,4 +38,4 @@
 
 
 ---
-← [Глава 00. Введение, которое не боится быть нечестным](00-vvedenie.md) | [Глава 02. Чужая комната](02-chuzhaya-komnata.md) →
+← [Глава 00. Введение, которое не боится быть нечестным](https://echolibero.github.io/obryvki/00-vvedenie/) | [Глава 02. Чужая комната](https://echolibero.github.io/obryvki/02-chuzhaya-komnata/) →

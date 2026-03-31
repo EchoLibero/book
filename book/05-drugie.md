@@ -13,4 +13,4 @@
 Вторая мысль — тревожная.
 
 ---
-← [Глава 04. Первая строка](04-pervaya-stroka.md) | [Глава 06. Голос](06-golos.md) →
+← [Глава 04. Первая строка](https://echolibero.github.io/obryvki/04-pervaya-stroka/) | [Глава 06. Голос](https://echolibero.github.io/obryvki/06-golos/) →
